@@ -1,7 +1,11 @@
+# Trabalho 2
 
-Trabalho 2 da discplina de Algoritmo e Estruturas de Dados II, Professos Alexandre Agustini.
+Trabalho desenvolvido na discplina de Algoritmos e Estrutura de Dados II.
 
-Autores:
+## Enunciado do Trabalho
 
-Gustavo Saul
-João Graboski
+O trabalho tinha como objetivo desenvolver um algoritmo que decifrava um labirinto em caracteres de formato hexadecimal, permitindo calcular o número de áreas específicas e separadas dentro do labirinto.
+
+## Grupo
+
+Gustavo Saul, João Graboski
